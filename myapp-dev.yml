@@ -1,1 +1,2 @@
-myapp.message: Hello Im coming from server!
+myapp:
+  message: "Hello Im coming from server!"
