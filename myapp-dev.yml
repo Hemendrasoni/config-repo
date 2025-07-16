@@ -1,2 +1,2 @@
 myapp:
-  message: "Hello Im coming from server!"
+  message: Hello from config server!
